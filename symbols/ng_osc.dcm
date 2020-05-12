@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DSC60xx
+D MEMS Oscillator
+K MEMS Oscillator
+$ENDCMP
+#
+#End Doc Library
