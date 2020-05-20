@@ -6,4 +6,10 @@ K EEPROM memory Microwire
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf
 $ENDCMP
 #
+$CMP IS42S16320F-6TL
+D 512Mb Synchronous DRAM, 8 Mb x 16 b x 4 Banks, TSOP-II-54
+K DRAM MEMORY
+F https://www.mouser.com/datasheet/2/198/42-45R-S_86400F-16320F-706495.pdf
+$ENDCMP
+#
 #End Doc Library
