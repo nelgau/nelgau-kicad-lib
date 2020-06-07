@@ -30,4 +30,10 @@ K flash memory SPI
 F https://www.mouser.com/datasheet/2/949/w25q32jv_dtr_revg_03272018_plus-1489786.pdf
 $ENDCMP
 #
+$CMP W25Q512JVEIM
+D 32Mb Serial Flash Memory, Standard/Dual/Quad SPI, WSON-8
+K flash memory SPI
+F https://www.winbond.com/resource-files/W25Q512JV%20DTR%20RevC%2009102019%20133.pdf
+$ENDCMP
+#
 #End Doc Library
