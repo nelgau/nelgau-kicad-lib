@@ -12,7 +12,7 @@ K DRAM MEMORY
 F https://www.mouser.com/datasheet/2/198/42-45R-S_86400F-16320F-706495.pdf
 $ENDCMP
 #
-$CMP S25FL256S
+$CMP S25FL256SAGMFI01
 D 256Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-16W
 K flash memory SPI
 F https://www.cypress.com/file/448601/download
