@@ -6,4 +6,8 @@ K FTDI USB Double UART FIFO
 F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
 $ENDCMP
 #
+$CMP FT245RL
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf
+$ENDCMP
+#
 #End Doc Library
