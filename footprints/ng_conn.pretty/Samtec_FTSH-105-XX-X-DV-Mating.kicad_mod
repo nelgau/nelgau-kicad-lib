@@ -1,4 +1,4 @@
-(module Samtec_FTSH-105-XX-X-DV-Mating (layer F.Cu) (tedit 5EF253C3)
+(module Samtec_FTSH-105-XX-X-DV-Mating (layer F.Cu) (tedit 5EF4313D)
   (attr smd)
   (fp_text reference REF** (at 0 4.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -29,6 +29,7 @@
   (fp_line (start 5.27 -1.525) (end 3.37 -1.525) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.27 1.525) (end 3.37 1.525) (layer F.SilkS) (width 0.12))
   (fp_line (start 5.27 1.525) (end 5.27 -1.525) (layer F.SilkS) (width 0.12))
+  (fp_circle (center 3.6 -2.7) (end 3.7 -2.7) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at 2.54 -2 180) (size 0.74 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.54 2 180) (size 0.74 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.27 -2 180) (size 0.74 2.8) (layers F.Cu F.Paste F.Mask))
