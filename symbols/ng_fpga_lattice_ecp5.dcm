@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFE5U-25F-xBG256x
+D ECP5 FPGA, 25K LUTs, 1.1V, BGA-256
+K FPGA programmable logic
+$ENDCMP
+#
+$CMP LFE5U-25F-xBG381x
+D ECP5 FPGA, 25K LUTs, 1.1V, caBGA-381
+K FPGA programmable logic
+$ENDCMP
+#
+#End Doc Library
