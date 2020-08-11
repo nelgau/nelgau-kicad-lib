@@ -17,6 +17,11 @@ D 1Gb DDR3L SDRAM, 8 Mb x 16 b x 8 banks, 1866 MT/s, 1.35V, BGA-96
 K DDR3 DDR3L SDRAM
 $ENDCMP
 #
+$CMP MT41K64M16TW-xxx_copy
+D 1Gb DDR3L SDRAM, 8 Mb x 16 b x 8 banks, 1866 MT/s, 1.35V, BGA-96
+K DDR3 DDR3L SDRAM
+$ENDCMP
+#
 $CMP S25FL256SAGMFI01
 D 256Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-16W
 K flash memory SPI
