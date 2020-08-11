@@ -6,20 +6,28 @@ K EEPROM memory Microwire
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf
 $ENDCMP
 #
+$CMP AS4C64M8D3L-12Bxx
+D 512Mb DDR3L SDRAM, 8 M x 8 b x 8 banks, 1600 MT/s, 1.35V, BGA-78
+K DDR3 DDR3L SDRAM
+F https://www.mouser.com/datasheet/2/12/20171127_AllianceMemory_512M_AS4C64M8D3L-12BIN.BCN-1288893.pdf
+$ENDCMP
+#
 $CMP IS42S16320F-6TL
 D 512Mb Synchronous DRAM, 8 Mb x 16 b x 4 Banks, TSOP-II-54
 K DRAM MEMORY
 F https://www.mouser.com/datasheet/2/198/42-45R-S_86400F-16320F-706495.pdf
 $ENDCMP
 #
-$CMP MT41K64M16TW-xxx
-D 1Gb DDR3L SDRAM, 8 Mb x 16 b x 8 banks, 1866 MT/s, 1.35V, BGA-96
+$CMP MT41K512M8xx-107
+D 4Gb DDR3L SDRAM, 64 M x 8 b x 8 banks, 1866 MT/s, 1.35V, BGA-78
 K DDR3 DDR3L SDRAM
+F https://www.mouser.com/datasheet/2/12/20171127_AllianceMemory_512M_AS4C64M8D3L-12BIN.BCN-1288893.pdf
 $ENDCMP
 #
-$CMP MT41K64M16TW-xxx_copy
-D 1Gb DDR3L SDRAM, 8 Mb x 16 b x 8 banks, 1866 MT/s, 1.35V, BGA-96
+$CMP MT41K64M16xx-107
+D 1Gb DDR3L SDRAM, 8 M x 16 b x 8 banks, 1866 MT/s, 1.35V, BGA-96
 K DDR3 DDR3L SDRAM
+F https://www.micron.com/products/dram/ddr3-sdram/part-catalog/mt41k64m16tw-107
 $ENDCMP
 #
 $CMP S25FL256SAGMFI01
