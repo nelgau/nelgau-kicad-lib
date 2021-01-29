@@ -5,4 +5,10 @@ D MEMS Oscillator
 K MEMS Oscillator
 $ENDCMP
 #
+$CMP SiT2001B
+D MEMS Oscillator
+K MEMS Oscillator
+F https://www.mouser.com/datasheet/2/371/SiT2001B-datasheet_0-1369642.pdf
+$ENDCMP
+#
 #End Doc Library
