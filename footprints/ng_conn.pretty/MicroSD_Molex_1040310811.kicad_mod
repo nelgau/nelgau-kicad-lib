@@ -33,7 +33,7 @@
   (pad 10 smd rect (at 5.7 -9.9) (size 1.2 1) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 2.2 -10.9) (size 1.9 1.35) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -3.7 -10.9) (size 1.9 1.35) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/models/ng_conn.3dshapes/MicroSD_Molex_1040310811.step
+  (model ${NELGAU_LIBRARY_DIR}/models/ng_conn.3dshapes/MicroSD_Molex_1040310811.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
