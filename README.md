@@ -1,3 +1,3 @@
-# nelgau-kicad-libs
+# nelgau-kicad-lib
 
 My personal KiCad libraries :)
