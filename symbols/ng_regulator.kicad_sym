@@ -298,6 +298,24 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at 10.16 -3.81 180)
+				(length 2.54) hide
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_out line
 				(at 10.16 1.27 180)
 				(length 2.54)
@@ -387,8 +405,8 @@
 		)
 		(symbol "MIC5504-3.3YM5_0_1"
 			(rectangle
-				(start -7.62 -5.08)
-				(end 7.62 5.08)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -454,7 +472,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 7.62 -2.54 180)
+				(at 10.16 -2.54 180)
 				(length 2.54) hide
 				(name "NC"
 					(effects
